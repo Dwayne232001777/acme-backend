@@ -1,0 +1,9 @@
+{
+  "name": "acme-backend",
+  "version": "1.0.0",
+  "description": "Acme platform backend",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}

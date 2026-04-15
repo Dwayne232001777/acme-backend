@@ -1,0 +1,9 @@
+// Acme Backend — entry point
+const express = require('express');
+const app = express();
+app.use(express.json());
+
+// Routes will be added as features are built
+app.get('/health', (req, res) => res.json({ status: 'ok' }));
+
+app.listen(4000, () => console.log('Acme backend running on :4000'));
