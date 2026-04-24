@@ -1,0 +1,10 @@
+<mj-wrapper padding="16px 24px" background-color="#f8f9fb">
+  <mj-section>
+    <mj-column>
+      <mj-text font-size="11px" color="#8a94a8" align="center">
+        You are receiving this because you signed up for Acme.
+        <a href="{{unsubscribeUrl}}">Unsubscribe</a> from these emails.
+      </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
