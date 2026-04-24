@@ -1,0 +1,11 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#f4f4f7">
+      <mj-column>
+        <mj-text font-size="24px" font-weight="bold">Welcome to Acme!</mj-text>
+        <mj-text>We are excited to have you on board.</mj-text>
+        <mj-button href="https://acme.dev/start">Get Started</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
